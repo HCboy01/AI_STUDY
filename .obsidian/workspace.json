@@ -11,17 +11,21 @@
             "id": "1e09f5d26c620eef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hands-On/PART_1_한눈에 보는 머신러닝.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "111268422e9687ad",
+            "id": "c415dcee4b66a5fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hands-On/PART_1_한눈에 보는 머신러닝.md",
+                "file": "D-Learning-FromScratch/파이썬 기본지식.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hands-On/PART_1_한눈에 보는 머신러닝.md",
+                "file": "D-Learning-FromScratch/파이썬 기본지식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hands-On/PART_1_한눈에 보는 머신러닝.md",
+                "file": "D-Learning-FromScratch/파이썬 기본지식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hands-On/PART_1_한눈에 보는 머신러닝.md"
+                "file": "D-Learning-FromScratch/파이썬 기본지식.md"
               }
             }
           }
@@ -155,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "111268422e9687ad",
+  "active": "c415dcee4b66a5fa",
   "lastOpenFiles": [
     "Hands-On/PART_1_한눈에 보는 머신러닝.md",
+    "D-Learning-FromScratch/파이썬 기본지식.md",
+    "D-Learning-FromScratch",
     "Hands-On"
   ]
 }
